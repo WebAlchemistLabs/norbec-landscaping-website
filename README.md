@@ -89,7 +89,7 @@ This prevents double bookings and keeps scheduling organized.
 
 # Customer Lead Database (Google Sheets)
 
-![Calendar Event](project-docs/Google%20calendar.png)
+![Google Sheets Database](project-docs/Sheets.png)
 
 Customer information is automatically stored in a Google Sheets document, creating a simple CRM-style lead database.
 
