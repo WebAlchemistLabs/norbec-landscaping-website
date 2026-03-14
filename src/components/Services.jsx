@@ -4,62 +4,62 @@ export default function Services() {
   const services = [
     {
       title: "Lawn Mowing",
-      image: "/mowing.jpg",
+      image: "/images/services/mowing.jpg",
       desc: "Keep your lawn neat, healthy, and consistently sharp.",
     },
     {
       title: "Garden Care",
-      image: "/garden.png",
+      image: "/images/services/garden.png",
       desc: "Seasonal garden maintenance for clean, vibrant beds.",
     },
     {
       title: "Spring Clean Up",
-      image: "/cleanup.png",
+      image: "/images/services/cleanup.png",
       desc: "A full refresh to get your property ready for the season.",
     },
     {
       title: "Pressure Washing",
-      image: "/pressure.png",
+      image: "/images/services/pressure.png",
       desc: "Patios, driveways, and walkways — safely restored.",
     },
     {
       title: "Custom Garden",
-      image: "/custom.png",
+      image: "/images/services/custom.png",
       desc: "Personalized garden designs that match your home’s style.",
     },
     {
       title: "Mulch & Soil",
-      image: "/mulch.png",
+      image: "/images/services/mulch.png",
       desc: "Premium mulch & soil installs for healthier plant growth.",
     },
     {
       title: "Sod Install",
-      image: "/sod.png",
+      image: "/images/services/sod.png",
       desc: "Professional sod installation for an instant green lawn.",
     },
     {
       title: "Landscape Install",
-      image: "/landscape.png",
+      image: "/images/services/landscape.png",
       desc: "Hard + soft landscaping installs done the right way.",
     },
     {
       title: "Tree & Shrub Care",
-      image: "/tree.png",
+      image: "/images/services/tree.png",
       desc: "Pruning and care that promotes long-term plant health.",
     },
     {
       title: "Outdoor Lighting",
-      image: "/lighting.png",
+      image: "/images/services/lighting.png",
       desc: "Boost curb appeal with clean, modern outdoor lighting.",
     },
     {
       title: "Patio & Walkways",
-      image: "/patio.png",
+      image: "/images/services/patio.png",
       desc: "Beautiful stone work for patios, paths, and walkways.",
     },
     {
       title: "Fencing",
-      image: "/fence.png",
+      image: "/images/services/fence.png",
       desc: "Durable fencing options built for privacy and style.",
     },
   ];

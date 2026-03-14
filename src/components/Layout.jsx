@@ -38,7 +38,7 @@ export default function Layout() {
         <div className="container header-inner">
           {/* Brand */}
           <NavLink to="/" className="brand" aria-label="Go to homepage">
-            <img src="/logo.png" alt="NorBec Logo" className="brand-logo" />
+            <img src="/images/logo.png" alt="NorBec Logo" className="brand-logo" />
             <div className="brand-text">
               <span className="brand-name">NorBec Landscaping</span>
               <span className="brand-tag">Loyal 2 Your Soil</span>

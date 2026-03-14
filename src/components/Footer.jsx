@@ -118,7 +118,7 @@ export default function Footer() {
             title="Facebook"
           >
             <span style={iconWrap}>
-              <img src="/FB.png" alt="Facebook" style={imgStyle} />
+              <img src="/images/social/FB.png" alt="Facebook" style={imgStyle} />
             </span>
           </a>
 
@@ -132,7 +132,7 @@ export default function Footer() {
             title="Instagram"
           >
             <span style={iconWrap}>
-              <img src="/IG.png" alt="Instagram" style={imgStyle} />
+              <img src="/images/social/IG.png" alt="Instagram" style={imgStyle} />
             </span>
           </a>
 
@@ -146,7 +146,7 @@ export default function Footer() {
             title="TikTok"
           >
             <span style={iconWrap}>
-              <img src="/Tic.png" alt="TikTok" style={imgStyle} />
+              <img src="/images/social/Tic.png" alt="TikTok" style={imgStyle} />
             </span>
           </a>
         </div>

@@ -128,12 +128,12 @@ function ServiceCard({ title, icon }) {
 
 export default function Home() {
   const services = [
-    { title: "Lawn Mowing", icon: "/mowing.jpg" },
-    { title: "Garden Care", icon: "/garden.png" },
-    { title: "Spring Clean Up", icon: "/cleanup.png" },
-    { title: "Pressure Washing", icon: "/pressure.png" },
-    { title: "Custom Garden", icon: "/custom.png" },
-    { title: "Mulch & Soil", icon: "/mulch.png" },
+    { title: "Lawn Mowing", icon: "/images/services/mowing.jpg" },
+    { title: "Garden Care", icon: "/images/services/garden.png" },
+    { title: "Spring Clean Up", icon: "/images/services/cleanup.png" },
+    { title: "Pressure Washing", icon: "/images/services/pressure.png" },
+    { title: "Custom Garden", icon: "/images/services/custom.png" },
+    { title: "Mulch & Soil", icon: "/images/services/mulch.png" },
   ];
 
   const testimonials = [
@@ -161,7 +161,7 @@ export default function Home() {
         style={{
           padding: "120px 20px",
           background:
-            "linear-gradient(135deg, rgba(57, 30, 68, 0.42), rgba(99, 59, 105, 0.32)), url('/home.png') center/cover no-repeat",
+            "linear-gradient(135deg, rgba(57, 30, 68, 0.42), rgba(99, 59, 105, 0.32)), url('/images/hero/home.png') center/cover no-repeat",
           textAlign: "center",
         }}
       >

@@ -103,7 +103,7 @@ textarea {
 ========================================= */
 .hero {
   /* keep your existing background image path */
-  background: url("/assets/home.png") center/cover no-repeat;
+  background: url("/images/hero/home.png") center/cover no-repeat;
   min-height: 100vh;
   width: 100%;
   position: relative;
